@@ -62,7 +62,7 @@ else {
 
   //this is the code that displays the widget - EDIT THIS if you want to change the structure
   tag.insertAdjacentHTML('afterbegin', `
-  <link rel="stylesheet" href="https://ne0nbandit.neocities.org/js/Deltaring/onionring.css">
+  <link rel="stylesheet" href="https://ne0nbandit.github.io/Deltaring/onionring.css">
   <table>
     <tr>
       <td class='webring-info'>
