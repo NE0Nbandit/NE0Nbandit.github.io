@@ -36,10 +36,12 @@
   margin: 0 auto; /* centers the widget */
   width: 250px;
   outline: 4px solid white;
+  border-collapse: inherit;
 }
 
 #deltaring table tr td {
   padding: 4px 10px; /* creates some space between the links and text inside the widget */
+  border: none;
 }
 
 #deltaring .webring-prev {
