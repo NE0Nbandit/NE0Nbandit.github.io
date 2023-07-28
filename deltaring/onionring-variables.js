@@ -8,7 +8,8 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://ne0nbandit.neocities.org/',
-'https://stringsattached.neocities.org/'
+'https://stringsattached.neocities.org/',
+'https://utnewsletterarchive.neocities.org/'
 ];
 
 //the name of the ring
