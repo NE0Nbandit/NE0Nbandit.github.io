@@ -1,0 +1,97 @@
+/* onionring.js is made up of four files - onionring-widget.js, onionring-index.js, onionring-variables.js and onionring.css (this one!)
+// it's licensed under the cooperative non-violent license (CNPL) v4+ (https://thufie.lain.haus/NPL.html)
+// it was originally made by joey + mord of allium (蒜) house, last updated 2020-10-24 */
+
+/* === ONIONRING.CSS === */
+/* this file affects the style of the widget. remember to replace all instances of #webringid with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
+@font-face {
+  font-family: 'Deltarune';
+  src: url("https://ne0nbandit.neocities.org/assets/fonts/Deltarune.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'DTM-sans';
+  src: url("https://ne0nbandit.neocities.org/assets/fonts/DTM-Sans.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'PixelOperator';
+  src: url("https://ne0nbandit.neocities.org/assets/fonts/PixelOperator.ttf") format("truetype");
+}
+
+#deltaring {
+  margin: 0 auto;
+  padding: 4px 15px;
+  font-family: 'deltarune';
+  text-shadow: 3px 3px #282864;
+  color: white;
+  line-height: initial;
+}
+
+#deltaring table {
+  background: url(https://i.imgur.com/L5sx0KC.gif/DeltaringTheme1.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  margin: 0 auto; /* centers the widget */
+  width: 250px;
+  outline: 4px solid white;
+}
+
+#deltaring table tr td {
+  padding: 4px 10px; /* creates some space between the links and text inside the widget */
+}
+
+#deltaring .webring-prev {
+  text-align: right;
+}
+
+#deltaring .webring-info {
+  text-align: center;
+  background: #0c0135fa;
+}
+
+#deltaring .webring-nav {
+  text-align: center;
+  font-size: 35px;
+  padding: 0px;
+  background: #150161ad;
+}
+
+#deltaring .webring-nav a {
+  font-size: 30px;
+  font-family: 'DTM-sans', monospace;
+}
+
+#deltaring .webring-next {
+  text-align: left;
+}
+
+#deltaring .webring-links {
+  font-size: small;
+}
+
+#deltaring .webring-description {
+  font-family: 'DTM-sans';
+  font-size: 13px;
+}
+
+#deltaring a {
+  color: white;
+  text-decoration: none;
+  font-weight: 100;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+#deltaring a:visited {
+  color: white;
+}
+
+#deltaring a:hover {
+  color: #fff203;
+}
+
+#deltaring a:active {
+  color: #ffb1cb;
+}
