@@ -6,17 +6,17 @@
 /* this file affects the style of the widget. remember to replace all instances of #webringid with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
 @font-face {
   font-family: 'Deltarune';
-  src: url("https://ne0nbandit.neocities.org/assets/fonts/Deltarune.ttf") format("truetype");
+  src: url("https://ne0nbandit.github.io/assets/fonts/Deltarune.ttf") format("truetype");
 }
 
 @font-face {
   font-family: 'DTM-sans';
-  src: url("https://ne0nbandit.neocities.org/assets/fonts/DTM-Sans.ttf") format("truetype");
+  src: url("https://ne0nbandit.github.io/assets/fonts/DTM-Sans.ttf") format("truetype");
 }
 
 @font-face {
   font-family: 'PixelOperator';
-  src: url("https://ne0nbandit.neocities.org/assets/fonts/PixelOperator.ttf") format("truetype");
+  src: url("https://ne0nbandit.github.io/assets/fonts/PixelOperator.ttf") format("truetype");
 }
 
 #deltaring {
