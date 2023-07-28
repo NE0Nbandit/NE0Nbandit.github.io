@@ -28,7 +28,7 @@ function randomSite() {
 //if we didn't find the site in the list, the widget displays a warning instead
 if (thisIndex == null) {
   tag.insertAdjacentHTML('afterbegin', `
-<link rel="stylesheet" href="https://ne0nbandit.neocities.org/js/Deltaring/onionring.css">
+<link rel="stylesheet" href="https://ne0nbandit.github.io/Deltaring/onionring.css">
 <table>
   <tr>
     <td class='webring-info'>
