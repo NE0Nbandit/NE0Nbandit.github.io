@@ -9,7 +9,9 @@
 var sites = [
 'https://ne0nbandit.neocities.org/',
 'https://stringsattached.neocities.org/',
-'https://utnewsletterarchive.neocities.org/'
+'https://utnewsletterarchive.neocities.org/',
+'https://toxoplasicity.neocities.org/',
+'https://wolfsite.neocities.org/'
 ];
 
 //the name of the ring
