@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'PixelOperator';
+    src: url("https://ne0nbandit.github.io/assets/fonts/PixelOperator.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'DTM-sans';
+    src: url("https://ne0nbandit.github.io/assets/fonts/DTM-Sans.ttf") format("truetype");
+}
+
+#player, #player a {
+    color:#AB82FF;
+    font-size: 13px;
+    font-family:'DTM-sans';
+}
+
+#player {
+    background:url(http://static.tumblr.com/kwaqeuc/Ig6lzwzd3/volumepaz.png);
+    background-position:bottom;
+    background-color: #FFFFFF;
+    text-shadow: 1px 1px #ff00ff30, -1px -1px #00ffff30;
+}
+
+#player .mainImage{ background:url(https://i.imgur.com/srTljbU.png/Main.png);}
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(https://i.imgur.com/lgLHpVm.png/PlayBtn.png); margin-top: 3px;}
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 12px; }
+#player #tooltip{ right:196px; }
+#player #timer{
+    right:120px;
+    font-family: 'PixelOperator';
+    font-size: 15px;
+    top: 3px;
+}
+#player #list{ right:0px; }
+#playlist .item {
+    cursor: url(https://ne0nbandit.neocities.org/assets/cursors/HotlineWhitePointer.png), auto;
+    padding: 1px 5px;
+    font-family: 'PixelOperator';
+    font-size: 16px;
+}
+
+#playlist .item :hover {
+    color: #4426f3;
+    transition: 0.2s;
+}
+
+#player #seeker{ right:320px; filter: drop-shadow(1px 1px 0px fuchsia) drop-shadow(0px -1px 0px cyan);}
+#player #seekerBase{ border-color:#FFFFFF50;  }
+#player #seekerBuffered{ background: linear-gradient(90deg, #ff00ff50, #00ffff50);}
+#player #seekerSliderBase{ background-color:#FFFFFF; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/kwaqeuc/Ig6lzwzd3/volumepaz.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#FFFFFF;}
+#playlist .module{  color:#AB82FF; background-color:#FFFFFF; }
+#playlist h3{
+    color: #ffffff;
+    background-color: #7747d9;
+    text-shadow: 1px 1px #ff00ff90, -1px -1px #00ffff90;
+    border-radius: 3px;
+    font-family: 'DTM-sans';
+    font-weight: 100;
+    font-size: 14px;}
+#playlist .even { background-color:#fff;}
+#playlist .odd { background-color: #e3edff;}
+#playlist .focus{ background-color: #a596fd; color: #fff;}
+
+    /* ===== Scrollbar CSS ===== */
+/* Firefox */
+* { scrollbar-width: thin; scrollbar-color: #ff00ff #0c091a; }
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar { width: 15px; }
+*::-webkit-scrollbar-track {
+  background: #0c091a;
+  border: 2px solid #0c091a;  
+}
+
+*::-webkit-scrollbar-thumb {
+  border: 2px solid #0c091a;
+  background: linear-gradient(180deg, #ff00ff, #00ffff);
+  border-radius: 7px;
+}
