@@ -7,12 +7,14 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://ne0nbandit.neocities.org/',
+'https://ne0nbandit.neocities.org/cable',
 'https://stringsattached.neocities.org/',
 'https://utnewsletterarchive.neocities.org/',
 'https://toxoplasicity.neocities.org/',
 'https://wolfsite.neocities.org/',
-'https://superkirbylover.neocities.org/'
+'https://superkirbylover.neocities.org/',
+'https://itpuddle.neocities.org/',
+'https://fulvern.neocities.org/'
 ];
 
 //the name of the ring
