@@ -29,7 +29,7 @@
 }
 
 #deltaring table {
-  background: url(https://i.imgur.com/L5sx0KC.gif/DeltaringTheme1.gif);
+  background: url(https://ne0nbandit.github.io/assets/img/utdr/DeltaringTheme.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -65,13 +65,8 @@
   font-family: 'DTM-sans', monospace;
 }
 
-#deltaring .webring-next {
-  text-align: left;
-}
-
-#deltaring .webring-links {
-  font-size: small;
-}
+#deltaring .webring-next { text-align: left; }
+#deltaring .webring-links { font-size: small; }
 
 #deltaring .webring-description {
   font-family: 'DTM-sans';
@@ -86,14 +81,10 @@
   font-size: inherit;
 }
 
-#deltaring a:visited {
-  color: white;
-}
+#deltaring a:visited { color: white; }
+#deltaring a:hover   { color: #fff203; }
+#deltaring a:active  { color: #ffb1cb; }
 
-#deltaring a:hover {
-  color: #fff203;
-}
-
-#deltaring a:active {
-  color: #ffb1cb;
-}
+tr:nth-child(even) {
+  background-color: initial;
+} /* Added to not clash with other websites' CSS */
