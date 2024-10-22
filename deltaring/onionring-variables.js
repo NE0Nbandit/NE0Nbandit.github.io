@@ -15,7 +15,7 @@ var sites = [
 'https://superkirbylover.neocities.org/',
 'https://itpuddle.neocities.org/',
 'https://fulvern.neocities.org/',
-'https://huecycles.com/'
+'https://andromedia.huecycles.com/chapters'
 ];
 
 //the name of the ring
