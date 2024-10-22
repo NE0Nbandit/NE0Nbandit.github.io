@@ -12,7 +12,7 @@ var sites = [
 'https://utnewsletterarchive.neocities.org/',
 'https://toxoplasicity.neocities.org/',
 'https://wolfsite.neocities.org/',
-'https://superkirbylover.neocities.org/',
+'https://superkirbylover.me/',
 'https://itpuddle.neocities.org/',
 'https://fulvern.neocities.org/',
 'https://andromedia.huecycles.com/chapters'
