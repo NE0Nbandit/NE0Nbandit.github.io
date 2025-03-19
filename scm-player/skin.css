@@ -40,7 +40,7 @@
 }
 #player #list{ right:0px; }
 #playlist .item {
-    cursor: url(https://ne0nbandit.neocities.org/assets/cursors/HotlineWhitePointer.png), auto;
+    cursor: url(/assets/cursors/HotlineWhitePointer.png), auto;
     padding: 1px 5px;
     font-family: 'PixelOperator';
     font-size: 16px;

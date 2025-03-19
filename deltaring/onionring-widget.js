@@ -36,7 +36,7 @@ if (thisIndex == null) {
     </td>
   </tr>
   <tr>
-  <td style="text-align: center; font-size: 16px; font-family: 'PixelOperator'; background: #150161ad;">This site isn't part of the <a href="https://ne0nbandit.neocities.org/cable/deltaring/about"><b>Deltaring</b></a> yet. You should talk to the manager to have it added to the list!</td>
+  <td style="text-align: center; font-size: 16px; font-family: 'PixelOperator'; background: #150161ad;">This site isn't part of the <a href="https://ne0nbandit.art/cable/deltaring/about"><b>Deltaring</b></a> yet. You should talk to the manager to have it added to the list!</td>
   </tr>
 </table>
   `);

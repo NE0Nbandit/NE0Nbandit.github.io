@@ -7,7 +7,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://ne0nbandit.neocities.org/',
+'https://ne0nbandit.art/',
 'https://stringsattached.neocities.org/',
 'https://utnewsletterarchive.neocities.org/',
 'https://toxoplasicity.neocities.org/',
@@ -15,7 +15,7 @@ var sites = [
 'https://superkirbylover.me/',
 'https://itpuddle.neocities.org/',
 'https://fulvern.neocities.org/',
-'https://andromedia.huecycles.com/chapters'
+'https://astraldisc.com/'
 ];
 
 //the name of the ring
@@ -29,7 +29,7 @@ var ringID = 'deltaring';
 //should the widget include a link to an index page?
 var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = 'https://ne0nbandit.neocities.org/cable/deltaring/about';
+var indexPage = 'https://ne0nbandit.art/cable/deltaring/about';
 
 //should the widget include a random button?
 var useRandom = true;
