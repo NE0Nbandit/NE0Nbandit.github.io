@@ -22,7 +22,7 @@ function cE(i) {
   l
     ? ((d.layers[i] = new Layer(0)), eval("document." + i + "=d.layers[i]"))
     : void 0 !== d.createElement &&
-      ((X = "<div id='" + i + '\' style="position:absolute">&nbsp;</div>'),
+      ((X = "<div id='" + i + '\' style="position:absolute; transform: scale(2); image-rendering: pixelated;">&nbsp;</div>'),
       (Y = d.createElement("DIV")),
       Y
         ? ((Y.innerHTML = X), d.body.appendChild(Y))
