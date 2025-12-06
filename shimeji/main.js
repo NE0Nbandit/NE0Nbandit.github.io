@@ -4,22 +4,22 @@ window.addEventListener('DOMContentLoaded', () => {
     // horizontal pixel movement per frame, for walking
     speed: 50,
     // interval: time in ms between frames, loop: times the frames get repeated
-    walk:  { frames: ["mike/shime1.png", "mike/shime2.png", "mike/shime1.png", "mike/shime3.png"], 
+    walk:  { frames: ["https://ne0nbandit.github.io/shimeji/mike/shime1.png", "https://ne0nbandit.github.io/shimeji/mike/shime2.png", "https://ne0nbandit.github.io/shimeji/mike/shime1.png", "https://ne0nbandit.github.io/shimeji/mike/shime3.png"], 
             interval: 500, loops: 6 },
-    trip:  { frames: ["mike/shime18.png", "mike/shime19.png",  "mike/shime19.png"],
+    trip:  { frames: ["https://ne0nbandit.github.io/shimeji/mike/shime18.png", "https://ne0nbandit.github.io/shimeji/mike/shime19.png",  "https://ne0nbandit.github.io/shimeji/mike/shime19.png"],
             interval: 250, loops: 1 },
-    sit:   { frames: ["mike/MikeSit.gif"], 
+    sit:   { frames: ["https://ne0nbandit.github.io/shimeji/mike/MikeSit.gif"], 
             // randomize time spend in sitting frame in ms
             interval: 1000, loops: 1, randomizeDuration: true, min: 3000, max: 11000 },
-    nap:   { frames: ["mike/MikeSleep.gif"], 
+    nap:   { frames: ["https://ne0nbandit.github.io/shimeji/mike/MikeSleep.gif"], 
             // randomize time spend in sitting frame in ms
             interval: 1000, loops: 1, randomizeDuration: true, min: 3000, max: 11000 },            
-    spin:  { frames: ["mike/shime1.png"], 
+    spin:  { frames: ["https://ne0nbandit.github.io/shimeji/mike/shime1.png"], 
             // loops 3 times to make it stand still while turning
             interval: 150, loops: 3 },
-    dance: { frames: ["mike/MikeSing.gif"], 
+    dance: { frames: ["https://ne0nbandit.github.io/shimeji/mike/MikeSing.gif"], 
             interval: 700, loops: 8 },
-    dance2: { frames: ["mike/MikeMaracas.gif"], 
+    dance2: { frames: ["https://ne0nbandit.github.io/shimeji/mike/MikeMaracas.gif"], 
             interval: 900, loops: 4 },
     // amount of loops to walk after doing a special action
     // falling directly after sitting down can look awkward, so force it to walk for a few loops
