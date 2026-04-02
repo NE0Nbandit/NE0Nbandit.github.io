@@ -12,6 +12,13 @@
       <url>https://ne0nbandit.github.io/assets/art/jay/bjay.png</url>
     </image>
     <item>
+      <title>Updated Florian's Gallery to GLightbox</title>
+      <pubDate>Thu, 2 Apr 2026 22:56:06 +0100</pubDate>
+      <link>https://ne0nbandit.art/characters/drimare/amaranth/florian</link>
+      <description><![CDATA[Converted the galleries from Lightbox2 to GLightbox
+<p><img src="https://ne0nbandit.github.io/assets/art/drimare/florian/chibi.png"></p>]]></description>
+    </item>
+    <item>
       <title>Introducing RSS Feed</title>
       <pubDate>Thu, 2 Apr 2026 22:23:09 +0100</pubDate>
       <link>https://ne0nbandit.art/</link>
