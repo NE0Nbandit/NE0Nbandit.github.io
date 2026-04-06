@@ -12,9 +12,16 @@
       <url>https://ne0nbandit.github.io/assets/art/jay/bjay.png</url>
     </image>
     <item>
+      <title>Updated Lava's Gallery to GLightbox</title>
+      <pubDate>Mon, 6 Apr 2026 22:08:06 +0100</pubDate>
+      <link>https://ne0nbandit.art/cable/cast/lava</link>
+      <description><![CDATA[Converted the galleries from Lightbox2 to GLightbox
+<p><img src="https://ne0nbandit.github.io/assets/img/cable/lava/idle.png"></p>]]></description>
+    </item>
+    <item>
       <title>Began remaking the Aurelion Sol Shrine</title>
       <pubDate>Mon, 6 Apr 2026 00:43:53 +0100</pubDate>
-      <description><![CDATA[The first version hasn't been updated in years and I think I'm better off remaking the whole things from scratch! GIves me a chance to mess with CSS some more as well!
+      <description><![CDATA[The first version hasn't been updated in years and I think I'm better off remaking the whole thing from scratch! GIves me a chance to mess with CSS some more as well!
 <img src="https://ne0nbandit.github.io/assets/art/lol/Asoltbh.png">]]></description>
     </item>
     <item>
