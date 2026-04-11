@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>NE0Nbandit Street - Art Feed</title>
+    <link>https://ne0nbandit.art/</link>
+    <description>Whenever I upload or repost new art to the site, it will show up here (If I remember to do so)</description>
+    <language>en-us</language>
+    <image>
+      <title>NE0Nbandit Street - Art Feed</title>
+      <link>https://ne0nbandit.art/</link>
+      <url>https://ne0nbandit.github.io/assets/img/decor/jayspin.gif</url>
+    </image>
+    <item>
+      <title>who up webbed they site</title>
+      <pubDate>Sat, 11 Apr 2026 06:27:22 +0100</pubDate>
+      <link>https://ne0nbandit.art/</link>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>
